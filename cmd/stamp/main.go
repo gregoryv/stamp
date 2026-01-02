@@ -1,4 +1,4 @@
-//Command stamp generates go source code with build information.
+// Command stamp generates go source code with build information.
 //
 //go:generate stamp -go build_stamp.go -clfile ../../changelog.md
 package main
