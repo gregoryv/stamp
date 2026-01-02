@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/gregoryv/stamp.svg?branch=master)](https://travis-ci.org/gregoryv/stamp)
-[![codecov](https://codecov.io/gh/gregoryv/stamp/branch/master/graph/badge.svg)](https://codecov.io/gh/gregoryv/stamp)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b0001c5ba7cd098b183d/maintainability)](https://codeclimate.com/github/gregoryv/stamp/maintainability)
+ARCHIVED! Moved to https://sogvin.com/stamp
 
 [stamp](https://godoc.org/github.com/gregoryv/stamp) - Parses out build information to embed into your binary
 
